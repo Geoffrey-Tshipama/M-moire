@@ -1,7 +1,6 @@
 import os
 import numpy as np
 import cv2
-import torch
 from ultralytics import YOLO
 # from tracker import Tracker
 
